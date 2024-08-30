@@ -1,0 +1,5 @@
+
+GET {{Tekton.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
